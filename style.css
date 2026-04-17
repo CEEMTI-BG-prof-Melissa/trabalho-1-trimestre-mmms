@@ -1,0 +1,36 @@
+header,nav,main,section,article,aside,footer{
+    border: 2px solid black;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(173, 20, 20, 0.658);
+            }
+
+body{
+    background-color: rgb(245, 218, 192);
+}
+section{
+    background-color: rgb(250, 235, 212);
+}
+#RF{
+    color: rgb(207, 81, 102);
+}
+#RNF{
+    color: rgb(207, 81, 102);
+}
+#RI{
+    color: rgb(207, 81, 102);
+}
+a{
+    color: black;
+}
+#funcionais{
+    text-align: right;
+    margin-right: 630px;
+}
+#naofuncionais{
+    text-align: center;
+    margin-right: 710px;
+}
+#inversos{
+    text-align: right;
+}
